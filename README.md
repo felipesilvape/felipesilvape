@@ -32,3 +32,9 @@
 </div>
 
 ---
+
+### 📊 Estatísticas no GitHub
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipesilvape&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesilvape&layout=compact&langs_count=7&theme=radical"/>
+</p>
